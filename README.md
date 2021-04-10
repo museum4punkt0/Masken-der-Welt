@@ -3,7 +3,7 @@
 
 Description 
 ------------------
-The museum "Fasnachtsmuseum Schloss Langenstein" offers a broad variety of masks from all around the globe. The goal of the AR-application "Masken der Welt" is to provide the visitors an immersive insight of the culture of wearing masks and the specific context of the cults. 
+The museum "Fasnachtsmuseum Schloss Langenstein" offers a broad variety of masks from all around the globe. The goal of the AR-application "Masken der Welt" is to provide the visitors an immersive insight of the culture of wearing masks on different continents and the specific context of the various according cults. 
 
 Therefor a specific selection of masks has been 3D scanned into 3D objects (via photogrammetry), seperated from their respective textures and merged into a animated and interactive 3D modelled scene of an abstracted globe and enriched with photos, videos and further informations. 
 
