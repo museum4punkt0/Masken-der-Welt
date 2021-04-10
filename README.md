@@ -18,7 +18,7 @@ Download/Clone the project from https://github.com/museum4punkt0/Masken-der-Welt
 
 Open the project using Unity Hub.<br>
 
-Select a Build-Target (must be Microsoft Hololens) in File->Build Settings <br>
+Select as Build-Target "Microsoft Hololens" in File->Build Settings <br>
 
 Pair the Hololens with your computer. <br>
 
