@@ -28,7 +28,7 @@ Start the application "Masken der Welt" in the start menu of your HoloLens <br><
 
 
 
-Unity projects are often tricky to merge from Git repositories. Therefor we decided to commit the entire workspace including caches, metadata and libs. So we recommend to check out the entire branch and select the files you need to get it up and running in your Unity version. 
+Unity projects are often quite tricky to merge from Git repositories. Therefor we decided to commit the entire workspace including caches, metadata and libs. So we recommend to check out the entire branch and select the files you need to get it up and running in your Unity version. 
 
 <br><br>
 
