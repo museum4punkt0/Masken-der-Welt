@@ -7,7 +7,7 @@ The Museum "Fasnachtsmuseum Schloss Langenstein" offers a broad variety of masks
 
 This application is designed for running exclusively on the Microsoft (r) HoloLens (r) augmented reality glass gear.    
 
-The application has been developed by contexagon and the asset design is by Daniel Boehme as part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project Fasnacht Digital. Further information: www.museum4punkt0.de/en/. <br>
+The application and the 3D scans of the masks have been made by contexagon and the assets were designed and created by Daniel Boehme as part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project Fasnacht Digital. Further information: www.museum4punkt0.de/en/. <br>
 
 The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany).
 
@@ -40,7 +40,7 @@ Credits
 
 Concept by Fasnachtsmuesum Schloss Langenstein <br>
 
-UX, Development by contexagon GmbH <br>
+Software development, UX and 3D scans of the masks by contexagon GmbH <br>
 
 Design, rendering, animation by Daniel Boehme <br>
 
