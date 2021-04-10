@@ -1,7 +1,7 @@
 # Masken-der-Welt
 
 
-Description
+Description <br>
 The Museum "Fasnachtsmuseum Schloss Langenstein" offers a broad variety of masks from around the globe. The goal of the AR-application "Masken der Welt" is to provide the visitors an immersive insight of the culture of waring masks. This application is designed especially for the Microsoft (r) HoloLens (r) augmented reality glass gear.    
 This application has been developed by contexagon and the asset design is by Daniel Boehme as part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project Fasnacht Digital. Further information: www.museum4punkt0.de/en/.
 
