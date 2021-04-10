@@ -1,14 +1,14 @@
 # Masken-der-Welt
 
 
-Description <br>
+Description 
 ------------------
 The Museum "Fasnachtsmuseum Schloss Langenstein" offers a broad variety of masks from around the globe. The goal of the AR-application "Masken der Welt" is to provide the visitors an immersive insight of the culture of waring masks. This application is designed especially for the Microsoft (r) HoloLens (r) augmented reality glass gear.    
 This application has been developed by contexagon and the asset design is by Daniel Boehme as part of the project museum4punkt0 - Digital Strategies for the Museum of the Future, sub-project Fasnacht Digital. Further information: www.museum4punkt0.de/en/. <br>
 
-The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany).<br><br>
+The project museum4punkt0 is funded by the Federal Government Commissioner for Culture and the Media in accordance with a resolution issued by the German Bundestag (Parliament of the Federal Republic of Germany).
 
-Technical Documentation <br>
+Technical Documentation 
 -------------------------
 This project is exclusively runnable on the Microsoft HoloLens MK1 AR gear. It has been made using the Microsoft Mixed Reality Toolkit as a plugin in Unity 3D. The application, especially the interaction and behaviour routines are written in C# and the animation models have been aranged and directed in Unity 3D. Furthermore the application is using plugins for handling FBX files. The assets have been made in Cinema 4d (3D models, textures and fixed animations).  <br>
 
@@ -32,14 +32,16 @@ Unity projects are often tricky to merge from Git repositories. Therefor we deci
 
 <br><br>
 
-# Credits <br>
+Credits
+-----------
 UX, Development by contexagon GmbH <br>
 
 Design, rendering, animation by Daniel Boehme <br>
 
 Concept by Fasnachtsmuesum Schloss Langenstein <br>
 
-# License <br>
+License 
+------------
 MIT license <br>
 
 Copyright © 2019, contexagon GmbH (implementation, interaction), Daniel Boehme (design, animation, rendering), Fasnachtsmuseum Schloss Langenstein <br>
